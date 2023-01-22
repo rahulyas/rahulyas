@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Android**
 
 - 📝 I regularly write articles on [https://rahulyash30.blogspot.com/](https://rahulyash30.blogspot.com/)
 
